@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kali21x
+- 👋 Hi, I’m @glanikali
 - 👀 I’m interested in marketing, web scrapping, programming.
 - 🌱 I’m currently learning frontend development with Reactjs 
 - 💞️ I’m looking to collaborate on frontend projects and scrapping. 

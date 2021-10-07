@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with others on open source projects
 - 💡 Volunteering Projects:
 - ARK - Assisting refugees that have exprienced war and persecution and to have them sheltered here in Canada to experience a new life in a safe community.
-- Pluc Happiness Movement - Helping the homeless find meaningful employment through teaching web development 
+- Public Happiness Movement - Helping the homeless find meaningful employment through teaching web development 
 
 
 ### Languages and Tools:

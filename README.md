@@ -8,7 +8,7 @@
 - ARK - Assisting refugees that have exprienced war and persecution and to have them sheltered here in Canada to experience a new life in a safe community.
 - Public Happiness Movement - Helping the homeless find meaningful employment through teaching web development 
 
-![Thilu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=glanikali&show_icons=true)
+![Glani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=glanikali&show_icons=true)
 
 ### Languages and Tools:
 

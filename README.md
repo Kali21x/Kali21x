@@ -1,12 +1,9 @@
 # Hi there, I'm Glani 👋
 
-## I'm a Digital Marketer, Developer, and Crypto Enthusiast From Toronto!!
+## I'm a Full-stack Developer, Marketer and Crypto Enthusiast from Toronto!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning web3
 - 👯 I’m looking to collaborate with others on open source projects
-- 💡 Volunteering Projects:
-- ARK - Assisting refugees that have exprienced war and persecution and to have them sheltered here in Canada to experience a new life in a safe community.
-- Public Happiness Movement - Helping the homeless find meaningful employment through teaching web development 
 
 ![Glani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=glanikali&show_icons=true)
 

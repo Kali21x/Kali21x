@@ -1,4 +1,4 @@
-### Hi there, I'm Glani 👋
+# Hi there, I'm Glani 👋
 
 ## I'm a Digital Marketer, Developer, and Crypto Enthusiast From Toronto!!
 

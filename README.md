@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning web3
 - 👯 I’m looking to collaborate with others on open source projects
 
-![Glani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=glanikali&show_icons=true)
 
 ### Languages and Tools:
 

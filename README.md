@@ -1,4 +1,3 @@
-![bitcoin.gif](bitcoin.gif)
 ## Introduction
 
 - 🌱 I’m currently learning web3

@@ -1,6 +1,5 @@
-# Hi there, I'm Glani 👋
-
-## I'm a Full-stack Developer, Marketer and Crypto Enthusiast from Toronto!
+![bitcoin.gif](bitcoin.gif)
+## Introduction
 
 - 🌱 I’m currently learning web3
 - 👯 I’m looking to collaborate with others on open source projects

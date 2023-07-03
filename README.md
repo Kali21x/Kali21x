@@ -30,7 +30,9 @@
 <img align="left" alt="firebase" height="26px" src="firebase.svg" />
 <img align="left" alt="docker" width="26px" src="docker.webp" />
 <img align="left" alt="nginx" height="26px" src="nginx.png" />      
+
 </br>
+
 ### Connect With Me:
 
 [<img align="left" alt="LinkedIn" width="30px" src="linkedin.png" />](https://www.linkedin.com/in/glanikali/)

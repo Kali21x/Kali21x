@@ -4,7 +4,7 @@
 My passion lies in working with eco-friendly companies, web3, and AI, but I am versatile in various software engineering roles. If you're looking for a versatile developer with a background in marketing and design to build your product or need help with software projects, feel free to reach out!
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=glanikali&label=Profile%20views&color=0e75b6&style=flat" alt="digitalnomad91" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=glanikali&label=Profile%20views&color=0e75b6&style=flat" alt="glanikali" /> </p>
 
 <h2>Languages & Tools</h2>
 <p align="left">

@@ -3,7 +3,6 @@
 <p>
 My passion lies in working with eco-friendly companies, web3, and AI, but I am open to most software engineering roles. If you're looking for a full stack developer with a background in marketing and design to build your product or need help with software projects, feel free to reach out!
 </p>
-<p>BJJ Blue Belt under Prof. Fernando Gringo Zulick</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glanikali&label=Profile%20views&color=0e75b6&style=flat" alt="glanikali" /> </p>
 
 <h2>Languages & Tools</h2>
@@ -68,3 +67,9 @@ My passion lies in working with eco-friendly companies, web3, and AI, but I am o
 <!--
 **glanikali/glanikali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+<h2>Interesting Facts About Me</h2>
+
+- BJJ Blue Belt under Prof. Fernando Gringo Zulick
+- I have a background in marketing and design
+- Went to the University of Waterloo

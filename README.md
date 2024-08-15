@@ -1,5 +1,5 @@
 <h2>Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I am Glani Kali</h2>
-<p>I am a software developer from Toronto with 7+ years of experience as a developer. I am skilled in a range of programming languages and technologies, including TypeScript, Python, and C#, to name a few. I have a strong background in front-end web/mobile development, back-end development, database administration and system design and UI design.</p>
+<p>I am a software developer from Toronto with 7+ years of experience building and scaling digital products of all sizes. I am skilled in a range of programming languages and technologies, including TypeScript, Python, and C#, to name a few. I have a strong background in front-end web/mobile development, back-end development, database administration and systems design.</p>
 <p>
 My passion lies in working with eco-friendly companies, web3, and AI, but I am open to most software engineering roles. If you're looking for a full stack developer with a background in marketing and design to build your product or need help with software projects, feel free to reach out!
 </p>

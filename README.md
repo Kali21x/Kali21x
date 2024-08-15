@@ -72,4 +72,4 @@ My passion lies in working with eco-friendly companies, web3, and AI, but I am o
 
 - BJJ Blue Belt under Prof. Fernando Gringo Zulick
 - I have a background in marketing and design
-- Went to the University of Waterloo
+- Went to the University of Waterloo & Ryerson University
